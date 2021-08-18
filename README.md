@@ -2,9 +2,6 @@ Hi there 👋 I'm Healthcare AI Engineer. Currently working on video vision AI.
 
 Experienced in CNN, unsupervised time-series anomaly detection, classical ML.
 
-## Tech Stack
-
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-#3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <!--
 **vkehfdl1/vkehfdl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
