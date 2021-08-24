@@ -1,6 +1,6 @@
 Hi there 👋 I'm Healthcare AI Engineer. Currently working on video vision AI. 
 
-Experienced in CNN, unsupervised time-series anomaly detection, classical ML.
+Experienced in CNN, unsupervised time-series anomaly detection, GAN, classical ML.
 
 
 <!--
