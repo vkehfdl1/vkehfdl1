@@ -1,7 +1,7 @@
-Hi there 👋 I'm Healthcare AI Engineer. Currently working on video vision AI. 
+Hi there 👋 I'm AI Engineer. Currently working on video vision AI. 
 
-Experienced in CNN, RNN, unsupervised time-series anomaly detection, GAN, classical ML.
-
+- 🔭 I’m currently working in [Whew-AI Inc.](https://github.com/Whew-AI-Inc) as an AI developer/director.
+- 📫 Experienced in CNN, RNN, unsupervised time-series anomaly detection, GAN, classical ML.
 
 <!--
 **vkehfdl1/vkehfdl1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
