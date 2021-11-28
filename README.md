@@ -13,7 +13,3 @@ Hi there 👋 I'm **AI Engineer**. Currently working on video vision AI.
 
 ### Others...
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-
-[![Sooyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkehfdl1&count_private=true&show_icons=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkehfdl1&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
