@@ -20,7 +20,7 @@ Hi there 👋 I'm **AI Engineer** who is working on video vision AI.
 * `Marker Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
 * `Whew-AI Inc.` **rPPG** - Improved rPPG accracy (SOTA at UBFC-rPPG dataset)
 * `Whew-AI Inc.` **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
-* `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developing face chat measuring attractiveness score for couples
+* `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developing face chat which measures attractiveness score for couples
 
 ## 🎀 Competitions
 
