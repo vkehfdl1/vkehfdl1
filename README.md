@@ -1,8 +1,8 @@
 Hi there 👋 I'm **AI Engineer** who is working on video vision AI. 
 
 - 🔭 I’m currently working in [Whew-AI Inc.](https://github.com/Whew-AI-Inc) as an AI developer/director.
-- 📫 Experienced in CNN, RNN, unsupervised time-series anomaly detection, GAN, classical ML.
-- 🔥 Currently interested in Transformers, Semi-Supervised Learning, Facial Landmark Detection.
+- 📫 I have an expeirence of building CNN, RNN, unsupervised time-series anomaly detection, GAN, classical ML.
+- 🔥 My recent foucs is to master Transformers, Semi-Supervised Learning, Facial Landmark Detection.
 
 ## 🤩 Skills
 
