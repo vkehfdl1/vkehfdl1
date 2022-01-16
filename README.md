@@ -2,6 +2,7 @@ Hi there 👋 I'm **AI Engineer**. Currently working on video vision AI.
 
 - 🔭 I’m currently working in [Whew-AI Inc.](https://github.com/Whew-AI-Inc) as an AI developer/director.
 - 📫 Experienced in CNN, RNN, unsupervised time-series anomaly detection, GAN, classical ML.
+- 🔥 Currently interested in Transformers, Semi-Supervised Learning, Facial Landmark Detection.
 
 ## 🤩 Skills
 
@@ -14,7 +15,14 @@ Hi there 👋 I'm **AI Engineer**. Currently working on video vision AI.
 ### Others...
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
-## Competitions
+## 💼 Projects
+
+* `Marker Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
+* `Whew-AI Inc.` **rPPG** - Improved rPPG accracy (SOTA at UBFC-rPPG dataset)
+* `Whew-AI Inc.` **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection (launch cancelled)
+* `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developing face chat measuring attractiveness score for couples
+
+## 🎀 Competitions
 
 ### Challenged
 * `Kaggle` **[Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard)** 6/1433
