@@ -23,4 +23,6 @@ Hi there 👋 I'm **AI Engineer**. Currently working on video vision AI.
 
 ### Hosted
 * `PCEO` **[Cardiovascular Disease Presence Prediction](https://www.kaggle.com/t/56c24d99b5194e9db7bdd3ec6729584b)**
-* 
+* `PCEO` **[Simple Korean MNIST](https://www.kaggle.com/t/a399dc6e65dd554d055ef945c7e345ac)**
+* `PCEO AI CLUB` **[Test Score Prediction](https://www.kaggle.com/t/f84d9b30b1294f088e5a0c4b2c3c1aee)**
+* `PCEO AI CLUB` **[Car Accident Severtiy Classification](https://www.kaggle.com/t/bd9fb3cd2c5d4eeea7f8ba1df3a4e9ca)**
