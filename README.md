@@ -1,4 +1,4 @@
-Hi there 👋 I'm **AI Engineer**. Currently working on video vision AI. 
+Hi there 👋 I'm **AI Engineer** who is working on video vision AI. 
 
 - 🔭 I’m currently working in [Whew-AI Inc.](https://github.com/Whew-AI-Inc) as an AI developer/director.
 - 📫 Experienced in CNN, RNN, unsupervised time-series anomaly detection, GAN, classical ML.
