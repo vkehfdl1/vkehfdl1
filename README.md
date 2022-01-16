@@ -21,6 +21,7 @@ Hi there 👋 I'm **AI Engineer** who is working on video vision AI.
 * `Whew-AI Inc.` **rPPG** - Improved rPPG accracy (SOTA at UBFC-rPPG dataset)
 * `Whew-AI Inc.` **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
 * `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developing face chat which measures attractiveness score for couples
+* `Whew-AI Inc.` **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed automatic human head shacking detector using facial landmarks and peak detection
 
 ## 🎀 Competitions
 
