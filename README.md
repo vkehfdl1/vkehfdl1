@@ -16,4 +16,11 @@ Hi there 👋 I'm **AI Engineer**. Currently working on video vision AI.
 
 ## Competitions
 
-* `Kaggle` ** [Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard) 6th/1433
+### Challenged
+* `Kaggle` **[Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard)** 6/1433
+* `Kaggle` **[PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard)** 453/3545
+* `Kaggle` **[Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard)** 1275/3900
+
+### Hosted
+* `PCEO` **[Cardiovascular Disease Presence Prediction](https://www.kaggle.com/t/56c24d99b5194e9db7bdd3ec6729584b)**
+* 
