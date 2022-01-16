@@ -13,3 +13,7 @@ Hi there 👋 I'm **AI Engineer**. Currently working on video vision AI.
 
 ### Others...
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
+## Competitions
+
+* `Kaggle` ** [Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard) 6th/1433
