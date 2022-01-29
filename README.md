@@ -26,13 +26,13 @@ Hi there 👋 I'm **AI Engineer** who is working on video vision AI.
 ## 🎀 Competitions
 
 ### Challenged
-* `Kaggle` **[Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard)** 6/1433
-* `Dacon`  **[Job Care Recommendation Algoritm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728
+* `Kaggle` **[Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard)** 6/1433 [Code](https://github.com/vkehfdl1/tabular-2021.2)
+* `Dacon`  **[Job Care Recommendation Algoritm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728 [Code](https://github.com/PCEO-AI-CLUB/JobCare--DACON)
 * `Kaggle` **[PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard)** 453/3545
-* `Kaggle` **[Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard)** 1275/3900
+* `Kaggle` **[Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard)** 1275/3900 [Code](https://github.com/vkehfdl1/cassava_disease_classification)
 
 ### Hosted
 * `PCEO` **[Cardiovascular Disease Presence Prediction](https://www.kaggle.com/t/56c24d99b5194e9db7bdd3ec6729584b)**
 * `PCEO` **[Simple Korean MNIST](https://www.kaggle.com/t/a399dc6e65dd554d055ef945c7e345ac)**
-* `PCEO AI CLUB` **[Test Score Prediction](https://www.kaggle.com/t/f84d9b30b1294f088e5a0c4b2c3c1aee)**
-* `PCEO AI CLUB` **[Car Accident Severtiy Classification](https://www.kaggle.com/t/bd9fb3cd2c5d4eeea7f8ba1df3a4e9ca)**
+* `PCEO AI CLUB` **[Test Score Prediction](https://www.kaggle.com/t/f84d9b30b1294f088e5a0c4b2c3c1aee)** [Code](https://github.com/vkehfdl1/PCEO-AI-CLUB-competition-1st)
+* `PCEO AI CLUB` **[Car Accident Severtiy Classification](https://www.kaggle.com/t/bd9fb3cd2c5d4eeea7f8ba1df3a4e9ca)** [Code](https://github.com/vkehfdl1/-PCEO-AI-CLUB-competition-2nd)
