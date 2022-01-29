@@ -27,6 +27,7 @@ Hi there 👋 I'm **AI Engineer** who is working on video vision AI.
 
 ### Challenged
 * `Kaggle` **[Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard)** 6/1433
+* `Dacon`  **[Job Care Recommendation Algoritm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728
 * `Kaggle` **[PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard)** 453/3545
 * `Kaggle` **[Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard)** 1275/3900
 
