@@ -1,4 +1,4 @@
-Hi there 👋 I'm **AI Engineer** who is working on video vision AI. 
+Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and **AI Engineer** who is working on video vision AI. 
 
 - 🔭 I’m currently working in [Whew-AI Inc.](https://github.com/Whew-AI-Inc) as an AI developer/director.
 - 📫 I have an expeirence of building CNN, RNN, unsupervised time-series anomaly detection, GAN, classical ML.
