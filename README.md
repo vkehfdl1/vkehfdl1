@@ -1,6 +1,6 @@
 Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and **AI Engineer** who is working on video vision AI. 
 
-- 🔭 I’m currently working in [Whew-AI Inc.](https://github.com/Whew-AI-Inc) as an AI developer/director.
+- 🔭 I’m currently working in [Whew-AI Inc.](https://github.com/Whew-AI-Inc) as an AI developer/Android developer/director.
 - 📫 I have an expeirence of building CNN, RNN, unsupervised time-series anomaly detection, GAN, classical ML.
 - 🔥 My recent foucs is to master Transformers, Semi-Supervised Learning, Facial Landmark Detection.
 
@@ -20,8 +20,9 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and **AI Engineer** who is working o
 * `Marker Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
 * `Whew-AI Inc.` **rPPG** - Improved rPPG accracy (SOTA at UBFC-rPPG dataset)
 * `Whew-AI Inc.` **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
-* `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developing face chat which measures attractiveness score for couples
+* `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developed face chat which measures attractiveness score for couples
 * `Whew-AI Inc.` **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed automatic human head shacking detector using facial landmarks and peak detection
+* `Whew-AI Inc.` **[Kikic](https://play.google.com/store/apps/details?id=ai.whew.kikic)** - Developing random chat app using video AI that analyze human emotions. Android front-end, ML & back-end integration to Android. 
 
 ## 🎀 Competitions
 
