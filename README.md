@@ -3,6 +3,8 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and **AI Engineer** who is working o
 - 🔭 I’m currently working in [Whew-AI Inc.](https://github.com/Whew-AI-Inc) as an AI developer/Android developer/director.
 - 📫 I have an expeirence of building CNN, RNN, unsupervised time-series anomaly detection, GAN, classical ML.
 
+### [My blog](https://velog.io/@vkehfdl1)
+
 ## 🤩 Skills
 
 ### Languages
