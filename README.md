@@ -24,8 +24,8 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and **AI Engineer** who is working o
 * `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developed face chat which measures attractiveness score for couples
 * `Whew-AI Inc.` **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed automatic human head shacking detector using facial landmarks and peak detection
 * `Whew-AI Inc.` **[Kikic](https://play.google.com/store/apps/details?id=ai.whew.kikic)** - Developed random chat app using video AI that analyze human emotions. Android front-end, ML & back-end integration to Android. 
-* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of Korean female idol. 
-* `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring Korean girl group idols. 
+* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol. 
+* `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols. 
 
 ## 🎀 Competitions
 
