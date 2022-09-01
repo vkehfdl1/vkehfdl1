@@ -34,6 +34,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and **AI Engineer** who is working o
 * `Dacon`  **[Job Care Recommendation Algoritm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728 [Code](https://github.com/PCEO-AI-CLUB/JobCare--DACON)
 * `Kaggle` **[PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard)** 453/3545
 * `Kaggle` **[Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard)** 1275/3900 [Code](https://github.com/vkehfdl1/cassava_disease_classification)
+* `Kaggle` **[American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction/leaderboard)** 481/4875 *Bronze Medal*
 
 ### Hosted
 * `PCEO` **[Cardiovascular Disease Presence Prediction](https://www.kaggle.com/t/56c24d99b5194e9db7bdd3ec6729584b)**
