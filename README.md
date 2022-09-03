@@ -35,7 +35,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and **AI Engineer** who is working o
 * `Dacon` **[Han River Water Level Prediction Competition](https://dacon.io/competitions/official/235949/leaderboard)** 16/308 
 * `Kaggle` **[PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard)** 453/3545
 * `Kaggle` **[Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard)** 1275/3900 [Code](https://github.com/vkehfdl1/cassava_disease_classification)
-* `Kaggle` **[American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction/leaderboard)** 481/4875 *Bronze Medal*
+* `Kaggle` **[American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction/leaderboard)** 481/4875 🥉*Bronze Medal*
 
 ### Hosted
 * `PCEO` **[Cardiovascular Disease Presence Prediction](https://www.kaggle.com/t/56c24d99b5194e9db7bdd3ec6729584b)**
