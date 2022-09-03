@@ -32,6 +32,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and **AI Engineer** who is working o
 ### Challenged
 * `Kaggle` **[Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard)** 6/1433 [Code](https://github.com/vkehfdl1/tabular-2021.2)
 * `Dacon`  **[Job Care Recommendation Algoritm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728 [Code](https://github.com/PCEO-AI-CLUB/JobCare--DACON)
+* `Dacon` **[Han River Water Level Prediction Competition](https://dacon.io/competitions/official/235949/leaderboard)** 16/308 
 * `Kaggle` **[PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard)** 453/3545
 * `Kaggle` **[Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard)** 1275/3900 [Code](https://github.com/vkehfdl1/cassava_disease_classification)
 * `Kaggle` **[American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction/leaderboard)** 481/4875 *Bronze Medal*
