@@ -1,4 +1,4 @@
-Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and **AI Engineer** who is working on video vision AI. 
+Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim). 
 
 - 🔭 I am founder of [EDAI](https://github.com/edai-club).
 
