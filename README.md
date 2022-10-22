@@ -1,7 +1,6 @@
 Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and **AI Engineer** who is working on video vision AI. 
 
-- 🔭 I’m currently working in [Whew-AI Inc.](https://github.com/Whew-AI-Inc) as an AI developer/Android developer/director.
-- 📫 I have an expeirence of building CNN, RNN, unsupervised time-series anomaly detection, GAN, classical ML.
+- 🔭 I am founder of [EDAI](https://github.com/edai-club).
 
 ### [My blog](https://velog.io/@vkehfdl1)
 
