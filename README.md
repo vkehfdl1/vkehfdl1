@@ -2,6 +2,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim).
 
 - 🔭 I am founder of [EDAI](https://github.com/edai-club).
 
+### [Disquiet Profile](https://disquiet.io/@jeffrey)
 ### [My blog](https://velog.io/@vkehfdl1)
 
 ## 🤩 Skills
