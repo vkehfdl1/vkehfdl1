@@ -1,8 +1,7 @@
 Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim). 
 
-- 🔭 I am founder of [EDAI](https://github.com/edai-club).
+- 🔭 I am founder of [NomaDamas](https://github.com/NomaDamas).
 
-### [Disquiet Profile](https://disquiet.io/@jeffrey)
 ### [My blog](https://velog.io/@vkehfdl1)
 
 ## 🤩 Skills
@@ -27,6 +26,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim).
 * `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol. 
 * `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols. 
 * `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
+* `NomaDamas` **[KoPrivateGPT](https://github.com/NomaDamas/KoPrivateGPT)** - Building Korean version of PrivateGPT. Document QA LLM partner with privacy. 
 
 ## 🎀 Competitions
 
@@ -43,3 +43,4 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim).
 * `PCEO` **[Simple Korean MNIST](https://www.kaggle.com/t/a399dc6e65dd554d055ef945c7e345ac)**
 * `PCEO AI CLUB` **[Test Score Prediction](https://www.kaggle.com/t/f84d9b30b1294f088e5a0c4b2c3c1aee)** [Code](https://github.com/vkehfdl1/PCEO-AI-CLUB-competition-1st)
 * `PCEO AI CLUB` **[Car Accident Severtiy Classification](https://www.kaggle.com/t/bd9fb3cd2c5d4eeea7f8ba1df3a4e9ca)** [Code](https://github.com/vkehfdl1/-PCEO-AI-CLUB-competition-2nd)
+
