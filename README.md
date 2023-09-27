@@ -30,6 +30,10 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim).
 * `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
 * `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
 
+
+## Contributions
+* **[facebookresearch/nougat](https://github.com/facebookresearch/nougat/pull/124#event-10476887326)**
+
 ## 🎀 Competitions
 
 ### Challenged
