@@ -29,7 +29,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim).
 * `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
 * `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
 * `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
-
+* `Marker Inc.` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG.
 
 ## Contributions
 * **[facebookresearch/nougat](https://github.com/facebookresearch/nougat/pull/124#event-10476887326)**
