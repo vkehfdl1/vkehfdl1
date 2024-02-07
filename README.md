@@ -1,6 +1,6 @@
 Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim). 
 
-- 🔭 I am founder of [NomaDamas](https://github.com/NomaDamas).
+- 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG).
 
 ### [My blog](https://velog.io/@vkehfdl1)
 
