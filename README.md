@@ -33,6 +33,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim).
 
 ## Contributions
 * **[facebookresearch/nougat](https://github.com/facebookresearch/nougat/pull/124#event-10476887326)**
+* **[run_llama/llama-index](https://github.com/run-llama/llama_index/pull/10524)**
 
 ## 🎀 Competitions
 
