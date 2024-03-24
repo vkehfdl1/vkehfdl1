@@ -2,7 +2,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim).
 
 - 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG).
 
-### [My blog](https://velog.io/@vkehfdl1)
+### [My blog](https://vkehfdl1.github.io/)
 
 ## 🤩 Skills
 
