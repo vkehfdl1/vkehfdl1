@@ -17,37 +17,42 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim).
 
 ## 💼 Projects
 
-* `Marker Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
-* `Whew-AI Inc.` **rPPG** - Improved rPPG accracy (SOTA at UBFC-rPPG dataset)
-* `Whew-AI Inc.` **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
-* `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developed face chat which measures attractiveness score for couples
-* `Whew-AI Inc.` **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed automatic human head shacking detector using facial landmarks and peak detection
-* `Whew-AI Inc.` **[Kikic](https://play.google.com/store/apps/details?id=ai.whew.kikic)** - Developed random chat app using video AI that analyze human emotions. Android front-end, ML & back-end integration to Android. 
-* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol. 
-* `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols. 
-* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
-* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
-* `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
-* `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
 * `Marker Inc.` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG.
+* `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
+* `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
+* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
+* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
+* `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
+* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol.
+* `Whew-AI Inc.` **[Kikic](https://play.google.com/store/apps/details?id=ai.whew.kikic)** - Developed random chat app using video AI that analyze human emotions. Android front-end, ML & back-end integration to Android.
+* `Whew-AI Inc.` **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed automatic human head shacking detector using facial landmarks and peak detection
+* `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developed face chat which measures attractiveness score for couples
+* `Whew-AI Inc.` **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
+* `Whew-AI Inc.` **rPPG** - Improved rPPG accracy (SOTA at UBFC-rPPG dataset)
+* `Marker Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
+
 
 ## Contributions
 * **[facebookresearch/nougat](https://github.com/facebookresearch/nougat/pull/124#event-10476887326)**
 * **[run_llama/llama-index](https://github.com/run-llama/llama_index/pull/10524)**
 
-## 🎀 Competitions
-
-### Challenged
-* `Kaggle` **[Tabular Playground - Feb 2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard)** 6/1433 [Code](https://github.com/vkehfdl1/tabular-2021.2)
-* `Dacon`  **[Job Care Recommendation Algoritm Competition](https://dacon.io/competitions/official/235863/leaderboard)** 15/728 [Code](https://github.com/PCEO-AI-CLUB/JobCare--DACON)
-* `Dacon` **[Han River Water Level Prediction Competition](https://dacon.io/competitions/official/235949/leaderboard)** 16/308 
-* `Kaggle` **[PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard)** 453/3545
-* `Kaggle` **[Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard)** 1275/3900 [Code](https://github.com/vkehfdl1/cassava_disease_classification)
-* `Kaggle` **[American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction/leaderboard)** 481/4875 🥉*Bronze Medal*
-
-### Hosted
-* `PCEO` **[Cardiovascular Disease Presence Prediction](https://www.kaggle.com/t/56c24d99b5194e9db7bdd3ec6729584b)**
-* `PCEO` **[Simple Korean MNIST](https://www.kaggle.com/t/a399dc6e65dd554d055ef945c7e345ac)**
-* `PCEO AI CLUB` **[Test Score Prediction](https://www.kaggle.com/t/f84d9b30b1294f088e5a0c4b2c3c1aee)** [Code](https://github.com/vkehfdl1/PCEO-AI-CLUB-competition-1st)
-* `PCEO AI CLUB` **[Car Accident Severtiy Classification](https://www.kaggle.com/t/bd9fb3cd2c5d4eeea7f8ba1df3a4e9ca)** [Code](https://github.com/vkehfdl1/-PCEO-AI-CLUB-competition-2nd)
-
+<details>
+  <summary><b>🎀 Competitions</b></summary>
+  <div markdown="1">
+    <h3 id="challenged">Challenged</h3>
+    <ul>
+    <li><code>Kaggle</code> <strong><a href="https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard">Tabular Playground - Feb 2021</a></strong> 6/1433 <a href="https://github.com/vkehfdl1/tabular-2021.2">Code</a></li>
+    <li><code>Dacon</code>  <strong><a href="https://dacon.io/competitions/official/235863/leaderboard">Job Care Recommendation Algoritm Competition</a></strong> 15/728 <a href="https://github.com/PCEO-AI-CLUB/JobCare--DACON">Code</a></li>
+    <li><code>Dacon</code> <strong><a href="https://dacon.io/competitions/official/235949/leaderboard">Han River Water Level Prediction Competition</a></strong> 16/308 </li>
+    <li><code>Kaggle</code> <strong><a href="https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard">PetFinder.my - Pawpularity Contest</a></strong> 453/3545</li>
+    <li><code>Kaggle</code> <strong><a href="https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard">Cassava Leaf Disease Classification</a></strong> 1275/3900 <a href="https://github.com/vkehfdl1/cassava_disease_classification">Code</a></li>
+    <li><code>Kaggle</code> <strong><a href="https://www.kaggle.com/competitions/amex-default-prediction/leaderboard">American Express - Default Prediction</a></strong> 481/4875 🥉<em>Bronze Medal</em></li>
+    </ul>
+    <h3 id="hosted">Hosted</h3>
+    <ul>
+    <li><code>PCEO</code> <strong><a href="https://www.kaggle.com/t/56c24d99b5194e9db7bdd3ec6729584b">Cardiovascular Disease Presence Prediction</a></strong></li>
+    <li><code>PCEO</code> <strong><a href="https://www.kaggle.com/t/a399dc6e65dd554d055ef945c7e345ac">Simple Korean MNIST</a></strong></li>
+    <li><code>PCEO AI CLUB</code> <strong><a href="https://www.kaggle.com/t/f84d9b30b1294f088e5a0c4b2c3c1aee">Test Score Prediction</a></strong> <a href="https://github.com/vkehfdl1/PCEO-AI-CLUB-competition-1st">Code</a></li>
+    <li><code>PCEO AI CLUB</code> <strong><a href="https://www.kaggle.com/t/bd9fb3cd2c5d4eeea7f8ba1df3a4e9ca">Car Accident Severtiy Classification</a></strong> <a href="https://github.com/vkehfdl1/-PCEO-AI-CLUB-competition-2nd">Code</a></li>
+    </ul>
+</details>
