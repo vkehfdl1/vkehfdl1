@@ -41,6 +41,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am RAG expert.
 ## Conferences/Sessions
 - [AUSGCON 2024](https://festa.io/events/5914) - 휴학, 디지털 노마드, AI, 그리고 깃허브 스타 1.3k 
 - [TeddyNote Youtube Live](https://www.youtube.com/watch?v=oiWNA3HsvHQ&t=41s) - Talked about AutoRAG and RAG optimization
+- PseudoCon AutoRAG Booth
 - [Gen AI Tools Infra & Open Source Demo Days](https://www.youtube.com/watch?v=b2WR9p1yS7Y&list=PLlcxuf1qTrwBNH_PImYsWQQoZBL8P7J0r&index=2) - The BEST component for your RAG system
 - RAG&AI community in Seoul - Talked about why I made AutoRAG and how to contribute to open source
 
