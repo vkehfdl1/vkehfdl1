@@ -1,23 +1,25 @@
-Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim). 
+Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am RAG expert. 
 
-- 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG).
+- 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), which is RAG AutoML tool.
 
-### [My blog](https://vkehfdl1.github.io/)
+### [My LinkedIn](https://www.linkedin.com/in/autorag-jeffrey/)
+### [AutoRAG blog](https://medium.com/@autorag)
+### [AutoRAG blog - Korean](https://velog.io/@autorag/%EC%99%9C-LLM%EC%9D%80-%EC%95%8C%EC%9E%98%EB%94%B1-%EC%A2%8B%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%A7%80-%EB%AA%BB%ED%95%A0%EA%B9%8C)
+### [My blog - Korean](https://vkehfdl1.github.io/)
 
 ## 🤩 Skills
 
-### Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C#&logoColor=white"/> 
-
-### AI
-<img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/scikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> 
-
-### Others...
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-202020?style=flat-square&logo=Unity&logoColor=white"/>
+- RAG optimization
+- RAG evaluation
+- RAG data creation
+- Efficient inference of AI models and LLMs
+- Build python project from zero base
+- Manage open source community
+- Techincal writing
 
 ## 💼 Projects
 
-* `Marker Inc.` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG.
+* `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. Actively developing. Building business with it.
 * `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
 * `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
 * `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
@@ -29,12 +31,18 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim).
 * `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developed face chat which measures attractiveness score for couples
 * `Whew-AI Inc.` **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
 * `Whew-AI Inc.` **rPPG** - Improved rPPG accracy (SOTA at UBFC-rPPG dataset)
-* `Marker Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
+* `Markr Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
 
 
 ## Contributions
 * **[facebookresearch/nougat](https://github.com/facebookresearch/nougat/pull/124#event-10476887326)**
 * **[run_llama/llama-index](https://github.com/run-llama/llama_index/pull/10524)**
+
+## Conferences/Sessions
+- [AUSGCON 2024](https://festa.io/events/5914) - 휴학, 디지털 노마드, AI, 그리고 깃허브 스타 1.3k 
+- [TeddyNote Youtube Live](https://www.youtube.com/watch?v=oiWNA3HsvHQ&t=41s) - Talked about AutoRAG and RAG optimization
+- [Gen AI Tools Infra & Open Source Demo Days](https://www.youtube.com/watch?v=b2WR9p1yS7Y&list=PLlcxuf1qTrwBNH_PImYsWQQoZBL8P7J0r&index=2) - The BEST component for your RAG system
+- RAG&AI community in Seoul - Talked about why I made AutoRAG and how to contribute to open source
 
 <details>
   <summary><b>🎀 Competitions</b></summary>
