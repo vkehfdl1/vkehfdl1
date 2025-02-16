@@ -1,6 +1,7 @@
 Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in the AI field.
 
 - 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), which is RAG AutoML tool.
+- 🍙 I am co-founder of [Rice-Bobb](https://github.com/RiceBobb) foundation, which is non-commercial open-source foundation in AI field.
 
 ### [My LinkedIn](https://www.linkedin.com/in/autorag-jeffrey/)
 ### [AutoRAG blog](https://medium.com/@autorag)
