@@ -20,6 +20,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am RAG expert.
 ## 💼 Projects
 
 * `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. Actively developing. Building business with it.
+* `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
 * `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
 * `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
 * `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
