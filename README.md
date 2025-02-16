@@ -1,4 +1,4 @@
-Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am RAG expert. 
+Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in the AI field.
 
 - 🔭 I am making [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), which is RAG AutoML tool.
 
@@ -34,6 +34,8 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am RAG expert.
 * `Whew-AI Inc.` **rPPG** - Improved rPPG accracy (SOTA at UBFC-rPPG dataset)
 * `Markr Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
 
+## Paper
+* [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](https://arxiv.org/abs/2410.20878)
 
 ## Contributions
 * **[facebookresearch/nougat](https://github.com/facebookresearch/nougat/pull/124#event-10476887326)**
