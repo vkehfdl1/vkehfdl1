@@ -4,9 +4,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in t
 - 🍙 I am co-founder of [Rice-Bobb](https://github.com/RiceBobb) foundation, which is non-commercial open-source foundation in AI field.
 
 ### [My LinkedIn](https://www.linkedin.com/in/autorag-jeffrey/)
-### [AutoRAG blog](https://medium.com/@autorag)
-### [AutoRAG blog - Korean](https://velog.io/@autorag/%EC%99%9C-LLM%EC%9D%80-%EC%95%8C%EC%9E%98%EB%94%B1-%EC%A2%8B%EC%9D%80-%EC%A7%88%EB%AC%B8%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%A7%80-%EB%AA%BB%ED%95%A0%EA%B9%8C)
-### [My blog - Korean](https://vkehfdl1.github.io/)
+### [My blog - Korean](https://obsidian-blog-gilt.vercel.app/)
 
 ## 🤩 Skills
 
