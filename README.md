@@ -41,6 +41,8 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in t
 * **[run_llama/llama-index](https://github.com/run-llama/llama_index/pull/10524)**
 
 ## Conferences/Sessions
+- Workshop at Uber about AutoRAG
+- AWS Gen AI day
 - [Pie & AI Seoul with GS & LlamaIndex](https://www.eventbrite.com/e/pie-ai-seoul-llamaindex-52g-genai-connect-day-2-tickets-1002901203497) - Tips for Korean RAG optimization and evaluation
 - [Pycon KR 2024](https://2024.pycon.kr/) - The story to reach Github star 1.5k
 - [AUSGCON 2024](https://festa.io/events/5914) - 휴학, 디지털 노마드, AI, 그리고 깃허브 스타 1.3k 
