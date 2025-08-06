@@ -19,6 +19,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in t
 ## 💼 Projects
 
 * `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. Actively developing. Building business with it.
+* `Rice-Bobb` **[KoDarkBench](https://github.com/RiceBobb/KoDarkBench)** - Korean version of Dark Bench. Analyze dark pattern of K-LLMs.
 * `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
 * `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
 * `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
