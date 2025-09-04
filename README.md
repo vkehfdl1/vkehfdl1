@@ -1,7 +1,8 @@
 Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in the AI field.
 
 - 🔭 I was leader & maker of [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), which is RAG AutoML tool. (4.1k+ Github Stars⭐)
-- 🍙 I am co-founder of [Rice-Bobb](https://github.com/RiceBobb) foundation, which is non-commercial open-source foundation in AI field.
+- 🍙 I am a leader of [NomaDamas](https://github.com/NomaDamas), which is an open-source AI HackerHouse in Seoul backed by Markr AI.
+- ✏️ I am a research intern at the KAIST AI DAVIAN lab.
 
 ### [My LinkedIn](https://www.linkedin.com/in/autorag-jeffrey/)
 ### [My blog - Korean](https://obsidian-blog-gilt.vercel.app/)
@@ -12,26 +13,26 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in t
 - RAG evaluation
 - RAG data creation
 - Efficient inference of AI models and LLMs
-- Build python project from zero base
+- Build a Python project from scratch
 - Manage open source community
-- Techincal writing
+- Technical writing
 
 ## 💼 Projects
 
-* `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. Actively developing. Building business with it.
-* `Rice-Bobb` **[KoDarkBench](https://github.com/RiceBobb/KoDarkBench)** - Korean version of Dark Bench. Analyze dark pattern of K-LLMs.
+* `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. (4.1k+ Github Stars⭐)
+* `Rice-Bobb` **[KoDarkBench](https://github.com/RiceBobb/KoDarkBench)** - Korean version of Dark Bench. Analyze the dark patterns of K-LLMs.
 * `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
 * `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
 * `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
-* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build DQA system with power of LLMs.
-* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build thechnologies for meausring valid impressions of in-game advertisements.
+* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build a DQA system with the power of LLMs.
+* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements.
 * `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
-* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idol.
-* `Whew-AI Inc.` **[Kikic](https://play.google.com/store/apps/details?id=ai.whew.kikic)** - Developed random chat app using video AI that analyze human emotions. Android front-end, ML & back-end integration to Android.
-* `Whew-AI Inc.` **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed automatic human head shacking detector using facial landmarks and peak detection
+* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idols.
+* `Whew-AI Inc.` **[Kikic](https://play.google.com/store/apps/details?id=ai.whew.kikic)** - Developed a random chat app using video AI that analyzes human emotions. Android front-end, ML & back-end integration to Android.
+* `Whew-AI Inc.` **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed an automatic human head shaking detector using facial landmarks and peak detection
 * `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developed face chat which measures attractiveness score for couples
 * `Whew-AI Inc.` **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
-* `Whew-AI Inc.` **rPPG** - Improved rPPG accracy (SOTA at UBFC-rPPG dataset)
+* `Whew-AI Inc.` **rPPG** - Improved rPPG accuracy (SOTA at UBFC-rPPG dataset)
 * `Markr Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
 
 ## Paper
