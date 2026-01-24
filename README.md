@@ -1,6 +1,6 @@
 Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in the AI field.
 
-- 🔭 I was leader & maker of [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), which is RAG AutoML tool. (4.1k+ Github Stars⭐)
+- 🔭 I was leader & maker of [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), which is RAG AutoML tool. (4.5k+ Github Stars⭐)
 - 🍙 I am a leader of [NomaDamas](https://github.com/NomaDamas), which is an open-source AI HackerHouse in Seoul backed by Markr AI.
 - ✏️ I am a research intern at the KAIST AI DAVIAN lab.
 
@@ -19,7 +19,7 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in t
 
 ## 💼 Projects
 
-* `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. (4.1k+ Github Stars⭐)
+* `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. (4.5k+ Github Stars⭐)
 * `Rice-Bobb` **[KoDarkBench](https://github.com/RiceBobb/KoDarkBench)** - Korean version of Dark Bench. Analyze the dark patterns of K-LLMs.
 * `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
 * `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
