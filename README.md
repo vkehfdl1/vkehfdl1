@@ -53,6 +53,9 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in t
 - [Gen AI Tools Infra & Open Source Demo Days](https://www.youtube.com/watch?v=b2WR9p1yS7Y&list=PLlcxuf1qTrwBNH_PImYsWQQoZBL8P7J0r&index=2) - The BEST component for your RAG system
 - RAG&AI community in Seoul - Talked about why I made AutoRAG and how to contribute to open source
 
+## Prizes
+- SK AI SUMMIT 2025 Claude Code Builder Hackathon, 🥇 1st Prize, SKT, Anthropic, Coxwave, 2025
+
 <details>
   <summary><b>🎀 Competitions</b></summary>
   <div markdown="1">
