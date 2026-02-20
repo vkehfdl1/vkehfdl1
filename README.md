@@ -1,4 +1,4 @@
-Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in the AI field.
+Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Currently crazy about building things.
 
 - 🔭 I was leader & maker of [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), which is RAG AutoML tool. (4.5k+ Github Stars⭐)
 - 🍙 I am a leader of [NomaDamas](https://github.com/NomaDamas), which is an open-source AI HackerHouse in Seoul backed by Markr AI.
@@ -7,36 +7,34 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in t
 ### [My LinkedIn](https://www.linkedin.com/in/autorag-jeffrey/)
 ### [My blog - Korean](https://obsidian-blog-gilt.vercel.app/)
 
-## 🤩 Skills
-
-- RAG optimization
-- RAG evaluation
-- RAG data creation
-- Efficient inference of AI models and LLMs
-- Build a Python project from scratch
-- Manage open source community
-- Technical writing
-
 ## 💼 Projects
 
-* `AutoRAG` **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. (4.5k+ Github Stars⭐)
-* `Rice-Bobb` **[KoDarkBench](https://github.com/RiceBobb/KoDarkBench)** - Korean version of Dark Bench. Analyze the dark patterns of K-LLMs.
-* `Rice-Bobb` **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
-* `NomaDamas` **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
-* `NomaDamas` **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
-* `NomaDamas` **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build a DQA system with the power of LLMs.
-* `EDAI` **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements.
-* `EDA` **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
-* `EDA` **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idols.
-* `Whew-AI Inc.` **[Kikic](https://play.google.com/store/apps/details?id=ai.whew.kikic)** - Developed a random chat app using video AI that analyzes human emotions. Android front-end, ML & back-end integration to Android.
-* `Whew-AI Inc.` **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed an automatic human head shaking detector using facial landmarks and peak detection
-* `Whew-AI Inc.` **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developed face chat which measures attractiveness score for couples
-* `Whew-AI Inc.` **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
-* `Whew-AI Inc.` **rPPG** - Improved rPPG accuracy (SOTA at UBFC-rPPG dataset)
-* `Markr Inc.`  **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
+* **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. (4.5k+ Github Stars⭐)
+* **[AutoRAG-Research](https://github.com/NomaDamas/AutoRAG-Research)** - Automate your RAG Research.
+* **[ios-moaki](https://github.com/vkehfdl1/ios-moaki)** - Moaki keyboard in iOS for Korean.
+* **[Noise-Cancel](https://github.com/NomaDamas/Noise-Cancel)** - Noise cancel for your LinkedIn Feed 🎧
+* **[AutoRAG-data](https://github.com/NomaDamas/AutoRAG-data)** - Tauri app to build Multi-modal RAG evaluation dataset.
+* **[KoDarkBench](https://github.com/RiceBobb/KoDarkBench)** - Korean version of Dark Bench. Analyze the dark patterns of K-LLMs.
+* **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
+* **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
+* **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
+* **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build a DQA system with the power of LLMs.
+* **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements.
+* **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
+* **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idols.
+* **[Kikic](https://play.google.com/store/apps/details?id=ai.whew.kikic)** - Developed a random chat app using video AI that analyzes human emotions. Android front-end, ML & back-end integration to Android.
+* **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed an automatic human head shaking detector using facial landmarks and peak detection
+* **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developed face chat which measures attractiveness score for couples
+* **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
+* **rPPG** - Improved rPPG accuracy (SOTA at UBFC-rPPG dataset)
+* **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
 
 ## Paper
 * [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](https://arxiv.org/abs/2410.20878)
+
+## Prizes
+- SK AI SUMMIT 2025 Claude Code Builder Hackathon, 🥇 1st Prize, SKT, Anthropic, Coxwave, 2025
+- 2024 Korea Open Source Developer Competition, 🥇 1st Prize, Ministry of Science and ICT, 2025
 
 ## Contributions
 * **[facebookresearch/nougat](https://github.com/facebookresearch/nougat/pull/124#event-10476887326)**
@@ -52,27 +50,3 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source enthusiast in t
 - PseudoCon AutoRAG Booth
 - [Gen AI Tools Infra & Open Source Demo Days](https://www.youtube.com/watch?v=b2WR9p1yS7Y&list=PLlcxuf1qTrwBNH_PImYsWQQoZBL8P7J0r&index=2) - The BEST component for your RAG system
 - RAG&AI community in Seoul - Talked about why I made AutoRAG and how to contribute to open source
-
-## Prizes
-- SK AI SUMMIT 2025 Claude Code Builder Hackathon, 🥇 1st Prize, SKT, Anthropic, Coxwave, 2025
-
-<details>
-  <summary><b>🎀 Competitions</b></summary>
-  <div markdown="1">
-    <h3 id="challenged">Challenged</h3>
-    <ul>
-    <li><code>Kaggle</code> <strong><a href="https://www.kaggle.com/c/tabular-playground-series-feb-2021/leaderboard">Tabular Playground - Feb 2021</a></strong> 6/1433 <a href="https://github.com/vkehfdl1/tabular-2021.2">Code</a></li>
-    <li><code>Dacon</code>  <strong><a href="https://dacon.io/competitions/official/235863/leaderboard">Job Care Recommendation Algoritm Competition</a></strong> 15/728 <a href="https://github.com/PCEO-AI-CLUB/JobCare--DACON">Code</a></li>
-    <li><code>Dacon</code> <strong><a href="https://dacon.io/competitions/official/235949/leaderboard">Han River Water Level Prediction Competition</a></strong> 16/308 </li>
-    <li><code>Kaggle</code> <strong><a href="https://www.kaggle.com/c/petfinder-pawpularity-score/leaderboard">PetFinder.my - Pawpularity Contest</a></strong> 453/3545</li>
-    <li><code>Kaggle</code> <strong><a href="https://www.kaggle.com/c/cassava-leaf-disease-classification/leaderboard">Cassava Leaf Disease Classification</a></strong> 1275/3900 <a href="https://github.com/vkehfdl1/cassava_disease_classification">Code</a></li>
-    <li><code>Kaggle</code> <strong><a href="https://www.kaggle.com/competitions/amex-default-prediction/leaderboard">American Express - Default Prediction</a></strong> 481/4875 🥉<em>Bronze Medal</em></li>
-    </ul>
-    <h3 id="hosted">Hosted</h3>
-    <ul>
-    <li><code>PCEO</code> <strong><a href="https://www.kaggle.com/t/56c24d99b5194e9db7bdd3ec6729584b">Cardiovascular Disease Presence Prediction</a></strong></li>
-    <li><code>PCEO</code> <strong><a href="https://www.kaggle.com/t/a399dc6e65dd554d055ef945c7e345ac">Simple Korean MNIST</a></strong></li>
-    <li><code>PCEO AI CLUB</code> <strong><a href="https://www.kaggle.com/t/f84d9b30b1294f088e5a0c4b2c3c1aee">Test Score Prediction</a></strong> <a href="https://github.com/vkehfdl1/PCEO-AI-CLUB-competition-1st">Code</a></li>
-    <li><code>PCEO AI CLUB</code> <strong><a href="https://www.kaggle.com/t/bd9fb3cd2c5d4eeea7f8ba1df3a4e9ca">Car Accident Severtiy Classification</a></strong> <a href="https://github.com/vkehfdl1/-PCEO-AI-CLUB-competition-2nd">Code</a></li>
-    </ul>
-</details>
