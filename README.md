@@ -11,11 +11,12 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Current
 
 * **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. (4.5k+ Github Stars⭐)
 * **[AutoRAG-Research](https://github.com/NomaDamas/AutoRAG-Research)** - Automate your RAG Research.
+* **[k-skill](https://github.com/NomaDamas/k-skill)** - A Korean automation skill collection for coding agents, covering SRT, KTX, KBO, subway arrivals, lotto checks, and more.
+* **[dani](https://github.com/NomaDamas/dani)** - A GitHub webhook to OMX automation loop for issue, PR review, approval, and auto-merge workflows.
 * **[slides-grab](https://github.com/vkehfdl1/slides-grab)** - Select context for agents directly from AI-generated HTML slides
 * **[ios-moaki](https://github.com/vkehfdl1/ios-moaki)** - Moaki keyboard in iOS for Korean.
 * **[Noise-Cancel](https://github.com/NomaDamas/Noise-Cancel)** - Semantic filter for your LinkedIn Feed 🎧
 * **[AutoRAG-data](https://github.com/NomaDamas/AutoRAG-data)** - Tauri app to build Multi-modal RAG evaluation dataset.
-* **[Marshroom🍄](https://github.com/vkehfdl1/Marshroom)** - My own workflow to work with multiple coding agents.
 * **[KoDarkBench](https://github.com/RiceBobb/KoDarkBench)** - Korean version of Dark Bench. Analyze the dark patterns of K-LLMs.
 * **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
 * **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
