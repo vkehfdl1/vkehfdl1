@@ -1,5 +1,7 @@
 Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Currently crazy about building things.
 
+<a href="https://trendshift.io/developers/11347" target="_blank"><img src="https://trendshift.io/api/badge/developers/11347" alt="vkehfdl1 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+
 - 🔭 I was leader & maker of [AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG), which is RAG AutoML tool. (4.5k+ Github Stars⭐)
 - 🍙 I am a leader of [NomaDamas](https://github.com/NomaDamas), which is an open-source AI HackerHouse in Seoul backed by Markr AI.
 - ✏️ I am a research intern at the KAIST AI DAVIAN lab.
