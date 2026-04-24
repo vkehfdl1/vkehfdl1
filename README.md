@@ -11,28 +11,382 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Current
 
 ## 💼 Projects
 
-* **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** - AutoML tool for RAG. (4.5k+ Github Stars⭐)
-* **[AutoRAG-Research](https://github.com/NomaDamas/AutoRAG-Research)** - Automate your RAG Research.
-* **[k-skill](https://github.com/NomaDamas/k-skill)** - A Korean automation skill collection for coding agents, covering SRT, KTX, KBO, subway arrivals, lotto checks, and more.
-* **[dani](https://github.com/NomaDamas/dani)** - A GitHub webhook to OMX automation loop for issue, PR review, approval, and auto-merge workflows.
-* **[slides-grab](https://github.com/vkehfdl1/slides-grab)** - Select context for agents directly from AI-generated HTML slides
-* **[ios-moaki](https://github.com/vkehfdl1/ios-moaki)** - Moaki keyboard in iOS for Korean.
-* **[Noise-Cancel](https://github.com/NomaDamas/Noise-Cancel)** - Semantic filter for your LinkedIn Feed 🎧
-* **[AutoRAG-data](https://github.com/NomaDamas/AutoRAG-data)** - Tauri app to build Multi-modal RAG evaluation dataset.
-* **[KoDarkBench](https://github.com/RiceBobb/KoDarkBench)** - Korean version of Dark Bench. Analyze the dark patterns of K-LLMs.
-* **[ClueHunter](https://github.com/RiceBobb/ClueHunter-Perplexity)** - Chrome extension to find the evidence from the cited webpage automatically.
-* **[awesome-korean-llm](https://github.com/NomaDamas/awesome-korean-llm)** - Awesome list of Korean LLM models.
-* **[KICE-slayer-AI-Korean](https://github.com/NomaDamas/KICE_slayer_AI_Korean)** - Prompt Engineering for solving KSAT (수능) Korean problems.
-* **[RAGchain](https://github.com/NomaDamas/RAGchain)** - Building advanced Document Q&A framework. Fastest way to build a DQA system with the power of LLMs.
-* **[In-game PPL Solution](https://edai.imweb.me/)** - Unity SDK for in-game advertising. Build technologies for measuring valid impressions of in-game advertisements.
-* **[IdolGAN](https://github.com/PCEO-AI-CLUB/IdolGAN)** - Researching and developing super resolution model for restoring K-pop girl group idols.
-* **[KID-F](https://github.com/PCEO-AI-CLUB/KID-F)** - Making high quality face image dataset of K-pop female idols.
-* **[Kikic](https://play.google.com/store/apps/details?id=ai.whew.kikic)** - Developed a random chat app using video AI that analyzes human emotions. Android front-end, ML & back-end integration to Android.
-* **[Doridori Counter](https://github.com/Whew-AI-Inc/Doridori-Counter)** - Developed an automatic human head shaking detector using facial landmarks and peak detection
-* **[kongDak AI Development](https://play.google.com/store/apps/details?id=ai.whew.whewus)** - Developed face chat which measures attractiveness score for couples
-* **RubyRuby App Development** - Developed baby health measurement app using rPPG & facial landmark detection
-* **rPPG** - Improved rPPG accuracy (SOTA at UBFC-rPPG dataset)
-* **Auto-orion** - Developed AutoML for [TadGAN](https://github.com/sintel-dev/Orion)
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th style="font-size:1.2em; text-align:center;">Stars</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Marker-Inc-Korea/AutoRAG"><b>AutoRAG</b></a></td>
+      <td>AutoML tool for RAG.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/AutoRAG?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2024 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/k-skill"><b>k-skill</b></a></td>
+      <td>A Korean automation skill collection for coding agents, covering SRT, KTX, KBO, subway arrivals, lotto checks, and more.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/k-skill?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/slides-grab"><b>slides-grab</b></a></td>
+      <td>Best harness, editor, and linter for generating slides in Claude Code / Codex.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/slides-grab?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/AutoRAG-Research"><b>AutoRAG-Research</b></a></td>
+      <td>Automate your RAG research.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/AutoRAG-Research?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/dani"><b>dani</b></a></td>
+      <td>A GitHub webhook to OMX automation loop for issue, PR review, approval, and auto-merge workflows.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/dani?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/deus-ex-machina"><b>deus-ex-machina</b></a></td>
+      <td>OMX operator/control plane and TUI for canonical event-driven supervision.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/deus-ex-machina?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/OpenDesign"><b>OpenDesign</b></a></td>
+      <td>Open-source alternative of Claude Code that can use Codex, Claude, and other model providers.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/OpenDesign?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/god-tibo-imagen"><b>god-tibo-imagen</b></a></td>
+      <td>Python and Node package to use GPT image 2.0 via a Codex subscription.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/god-tibo-imagen?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/girlfriend-in-cli"><b>girlfriend-in-cli</b></a></td>
+      <td>CLI boyfriend/girlfriend chatbot for social-skill practice and playful conversation.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/girlfriend-in-cli?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/Saving-Private-Token"><b>Saving-Private-Token</b></a></td>
+      <td>Utilities for working around short Claude Code token TTL pain points.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/Saving-Private-Token?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/civStation"><b>civStation</b></a></td>
+      <td>Control Civilization VI using natural voice commands: you decide strategy, the agent executes.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/civStation?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/auto-hongmyungbo"><b>auto-hongmyungbo</b></a></td>
+      <td>Automates promotional posts across multiple social media platforms.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/auto-hongmyungbo?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/GithubClaw"><b>GithubClaw</b></a></td>
+      <td>Autonomous agent for GitHub projects: use GitHub as the full team interface.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/GithubClaw?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/MinSync"><b>MinSync</b></a></td>
+      <td>Vector DB version control based on Git.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/MinSync?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/AutoMemo"><b>AutoMemo</b></a></td>
+      <td>Turn iPhone screenshots into valuable knowledge automatically.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/AutoMemo?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/MicGuardian"><b>MicGuardian</b></a></td>
+      <td>Mac utility to stop AirPods from hijacking an expensive microphone input.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/MicGuardian?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/nanoclaw"><b>nanoclaw</b></a></td>
+      <td>Personal agent stack for Telegram, knowledge-base, and Linux workflows.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/nanoclaw?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/symphony"><b>symphony</b></a></td>
+      <td>Turns project work into isolated autonomous implementation runs.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/symphony?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/han"><b>han</b></a></td>
+      <td>A compiled programming language with Korean keywords, written in Rust.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/han?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/Marshroom"><b>Marshroom</b></a></td>
+      <td>Pit stop workflow for heavy Claude Code users with multiple sessions based on GitHub issues.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/Marshroom?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/ios-moaki"><b>ios-moaki</b></a></td>
+      <td>Moaki keyboard in iOS for Korean.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/ios-moaki?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/open-clone/openclone"><b>openclone</b></a></td>
+      <td>Chat freely with an AI clone trained on a real person.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/open-clone/openclone?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Marker-Inc-Korea/KO-VLM-Benchmark"><b>KO-VLM-Benchmark</b></a></td>
+      <td>Korean VLM benchmark dataset built from real Korean document data.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/KO-VLM-Benchmark?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard"><b>Korean-SAT-LLM-Leaderboard</b></a></td>
+      <td>Korean SAT leaderboard.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/Korean-SAT-LLM-Leaderboard?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2024 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Marker-Inc-Korea/COT_steering"><b>COT_steering</b></a></td>
+      <td>CoT steering research for improving latent reasoning without extra training.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/COT_steering?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/vllm-mock"><b>vllm-mock</b></a></td>
+      <td>Mock of vLLM for testing vLLM code without GPUs.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/vllm-mock?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/EmbeddingToken"><b>EmbeddingToken</b></a></td>
+      <td>Transform an LLM into an embedding model with a few embedding tokens.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/EmbeddingToken?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/KoHalluLens"><b>KoHalluLens</b></a></td>
+      <td>Korean adaptation of HalluLens.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/KoHalluLens?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/kill-seoksam"><b>kill-seoksam</b></a></td>
+      <td>Voice-phishing detection MCP server from the Claude Code hackathon winning project.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/kill-seoksam?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/kbo-game"><b>kbo-game</b></a></td>
+      <td>NPM library for fetching KBO baseball game information.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/kbo-game?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/bm25-fusion"><b>bm25-fusion</b></a></td>
+      <td>Ultra-fast BM25 retriever with support for multiple variants and metadata filtering.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/bm25-fusion?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/hwp-converter-api"><b>hwp-converter-api</b></a></td>
+      <td>API server for converting HWP files with hwplib and hwpxlib.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/hwp-converter-api?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2023 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/KoDarkBench"><b>KoDarkBench</b></a></td>
+      <td>Korean version of DarkBench. Analyze dark patterns of K-LLMs.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/KoDarkBench?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/ClueHunter-Perplexity"><b>ClueHunter</b></a></td>
+      <td>Chrome extension to find evidence from the cited webpage automatically.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/ClueHunter-Perplexity?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/awesome-korean-llm"><b>awesome-korean-llm</b></a></td>
+      <td>Awesome list of Korean LLM models.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/awesome-korean-llm?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2023 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/KICE_slayer_AI_Korean"><b>KICE-slayer-AI-Korean</b></a></td>
+      <td>Prompt engineering for solving KSAT (수능) Korean problems.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/KICE_slayer_AI_Korean?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2023 ~ 2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Marker-Inc-Korea/RAGchain"><b>RAGchain</b></a></td>
+      <td>Advanced Document Q&amp;A framework and RAG extension of LangChain.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/RAGchain?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/AutoRAG-data"><b>AutoRAG-data</b></a></td>
+      <td>Tauri app to build multimodal RAG evaluation datasets.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/AutoRAG-data?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2024</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PCEO-AI-CLUB/IdolGAN"><b>IdolGAN</b></a></td>
+      <td>Researching and developing super-resolution models for restoring K-pop idol images.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/PCEO-AI-CLUB/IdolGAN?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PCEO-AI-CLUB/KID-F"><b>KID-F</b></a></td>
+      <td>High-quality K-pop female idol face image dataset with identity labels.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/PCEO-AI-CLUB/KID-F?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Whew-AI-Inc/Doridori-Counter"><b>Doridori Counter</b></a></td>
+      <td>Automatic human head-shaking detector using facial landmarks and peak detection.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/Whew-AI-Inc/Doridori-Counter?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td><a href="https://edai.imweb.me/"><b>In-game PPL Solution</b></a></td>
+      <td>Unity SDK for in-game advertising and valid impression measurement.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">-</td>
+      <td>2022 ~ 2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://play.google.com/store/apps/details?id=ai.whew.kikic"><b>Kikic</b></a></td>
+      <td>Random chat app using video AI that analyzes human emotions.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">-</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td><a href="https://play.google.com/store/apps/details?id=ai.whew.whewus"><b>kongDak AI Development</b></a></td>
+      <td>Face chat app measuring attractiveness scores for couples.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">-</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td><b>RubyRuby App Development</b></td>
+      <td>Baby health measurement app using rPPG and facial landmark detection.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">-</td>
+      <td>2021</td>
+    </tr>
+    <tr>
+      <td><b>rPPG</b></td>
+      <td>Improved rPPG accuracy, reaching SOTA on the UBFC-rPPG dataset.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">-</td>
+      <td>2021</td>
+    </tr>
+    <tr>
+      <td><b>Auto-orion</b></td>
+      <td>AutoML work for TadGAN / Orion.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">-</td>
+      <td>2021</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Paper
 * [AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline](https://arxiv.org/abs/2410.20878)
