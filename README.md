@@ -62,14 +62,6 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Current
       <td>2026 ~</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NomaDamas/deus-ex-machina"><b>deus-ex-machina</b></a></td>
-      <td>OMX operator/control plane and TUI for canonical event-driven supervision.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/deus-ex-machina?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2026 ~</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/NomaDamas/OpenDesign"><b>OpenDesign</b></a></td>
       <td>Open-source alternative of Claude Code that can use Codex, Claude, and other model providers.</td>
       <td align="center" style="font-size:1.4em; font-weight:bold;">
@@ -102,30 +94,6 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Current
       <td>2026 ~</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NomaDamas/civStation"><b>civStation</b></a></td>
-      <td>Control Civilization VI using natural voice commands: you decide strategy, the agent executes.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/civStation?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2026 ~</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/NomaDamas/auto-hongmyungbo"><b>auto-hongmyungbo</b></a></td>
-      <td>Automates promotional posts across multiple social media platforms.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/auto-hongmyungbo?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2026 ~</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/NomaDamas/GithubClaw"><b>GithubClaw</b></a></td>
-      <td>Autonomous agent for GitHub projects: use GitHub as the full team interface.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/GithubClaw?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2026 ~</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/NomaDamas/MinSync"><b>MinSync</b></a></td>
       <td>Vector DB version control based on Git.</td>
       <td align="center" style="font-size:1.4em; font-weight:bold;">
@@ -134,50 +102,10 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Current
       <td>2026 ~</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NomaDamas/AutoMemo"><b>AutoMemo</b></a></td>
-      <td>Turn iPhone screenshots into valuable knowledge automatically.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/AutoMemo?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2026 ~</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/vkehfdl1/MicGuardian"><b>MicGuardian</b></a></td>
       <td>Mac utility to stop AirPods from hijacking an expensive microphone input.</td>
       <td align="center" style="font-size:1.4em; font-weight:bold;">
         <img src="https://img.shields.io/github/stars/vkehfdl1/MicGuardian?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2026 ~</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vkehfdl1/nanoclaw"><b>nanoclaw</b></a></td>
-      <td>Personal agent stack for Telegram, knowledge-base, and Linux workflows.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/vkehfdl1/nanoclaw?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2026 ~</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vkehfdl1/symphony"><b>symphony</b></a></td>
-      <td>Turns project work into isolated autonomous implementation runs.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/vkehfdl1/symphony?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2026 ~</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vkehfdl1/han"><b>han</b></a></td>
-      <td>A compiled programming language with Korean keywords, written in Rust.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/vkehfdl1/han?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2026 ~</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vkehfdl1/Marshroom"><b>Marshroom</b></a></td>
-      <td>Pit stop workflow for heavy Claude Code users with multiple sessions based on GitHub issues.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/vkehfdl1/Marshroom?style=flat&label=%E2%AD%90" height="24"/>
       </td>
       <td>2026 ~</td>
     </tr>
@@ -214,34 +142,10 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Current
       <td>2024 ~</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Marker-Inc-Korea/COT_steering"><b>COT_steering</b></a></td>
-      <td>CoT steering research for improving latent reasoning without extra training.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/Marker-Inc-Korea/COT_steering?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2025 ~</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/NomaDamas/vllm-mock"><b>vllm-mock</b></a></td>
       <td>Mock of vLLM for testing vLLM code without GPUs.</td>
       <td align="center" style="font-size:1.4em; font-weight:bold;">
         <img src="https://img.shields.io/github/stars/NomaDamas/vllm-mock?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2025 ~</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/NomaDamas/EmbeddingToken"><b>EmbeddingToken</b></a></td>
-      <td>Transform an LLM into an embedding model with a few embedding tokens.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/EmbeddingToken?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2025 ~</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/NomaDamas/KoHalluLens"><b>KoHalluLens</b></a></td>
-      <td>Korean adaptation of HalluLens.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/KoHalluLens?style=flat&label=%E2%AD%90" height="24"/>
       </td>
       <td>2025 ~</td>
     </tr>
@@ -258,14 +162,6 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Current
       <td>NPM library for fetching KBO baseball game information.</td>
       <td align="center" style="font-size:1.4em; font-weight:bold;">
         <img src="https://img.shields.io/github/stars/vkehfdl1/kbo-game?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2025 ~</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/vkehfdl1/bm25-fusion"><b>bm25-fusion</b></a></td>
-      <td>Ultra-fast BM25 retriever with support for multiple variants and metadata filtering.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/vkehfdl1/bm25-fusion?style=flat&label=%E2%AD%90" height="24"/>
       </td>
       <td>2025 ~</td>
     </tr>
