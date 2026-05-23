@@ -62,14 +62,6 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Current
       <td>2026 ~</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/NomaDamas/OpenDesign"><b>OpenDesign</b></a></td>
-      <td>Open-source alternative of Claude Code that can use Codex, Claude, and other model providers.</td>
-      <td align="center" style="font-size:1.4em; font-weight:bold;">
-        <img src="https://img.shields.io/github/stars/NomaDamas/OpenDesign?style=flat&label=%E2%AD%90" height="24"/>
-      </td>
-      <td>2026 ~</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/NomaDamas/god-tibo-imagen"><b>god-tibo-imagen</b></a></td>
       <td>Python and Node package to use GPT image 2.0 via a Codex subscription.</td>
       <td align="center" style="font-size:1.4em; font-weight:bold;">
