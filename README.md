@@ -46,6 +46,62 @@ Hi there 👋 I'm Jeffrey Kim (Dongkyu Kim) and I am open-source addict. Current
       <td>2026 ~</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/NomaDamas/bananatape"><b>bananatape</b></a></td>
+      <td>Vibe design tool for developers to generate, annotate, and edit designs with a Codex subscription.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/bananatape?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/no-human-blog-promo"><b>no-human-blog-promo</b></a></td>
+      <td>Promo blog generated and operated autonomously by the no-human-blog engine through a Codex CLI lane.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/no-human-blog-promo?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/celeb-quiz"><b>celeb-quiz</b></a></td>
+      <td>Self-hosted, agent-native person and celebrity photo quiz with dual-monitor host/player modes.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/celeb-quiz?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/hanyang-run"><b>hanyang-run</b></a></td>
+      <td>Kiro running app challenge that turns the 397km Yeongnam-daero route into a historical exam journey.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/hanyang-run?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/Marshroom"><b>Marshroom</b></a></td>
+      <td>Pit stop workflow for heavy Claude Code users managing multiple sessions from GitHub issues.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/Marshroom?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/vkehfdl1/Ko-MM-VQA"><b>Ko-MM-VQA</b></a></td>
+      <td>Korean document multi-page, multi-hop visual question answering dataset.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/vkehfdl1/Ko-MM-VQA?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/NomaDamas/nomadamas-landing-page"><b>nomadamas-landing-page</b></a></td>
+      <td>Terminal-style landing page for nomadamas.org with a single-HTML, self-contained bundler.</td>
+      <td align="center" style="font-size:1.4em; font-weight:bold;">
+        <img src="https://img.shields.io/github/stars/NomaDamas/nomadamas-landing-page?style=flat&label=%E2%AD%90" height="24"/>
+      </td>
+      <td>2026 ~</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/NomaDamas/AutoRAG-Research"><b>AutoRAG-Research</b></a></td>
       <td>Automate your RAG research.</td>
       <td align="center" style="font-size:1.4em; font-weight:bold;">
